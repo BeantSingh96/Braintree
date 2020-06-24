@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c3393</color>
+    <color name="colorPrimaryDark">#390f39</color>
+    <color name="colorAccent">#DDD</color>
+    <color name="colorPrimary50">#809C3393</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+    <color name="darkRed">#9F2200</color>
+    <color name="darkGray">#FF343434</color>
+    <color name="grayDivider">#e9ecef</color>
+    <color name="chatBackground">#6c757d</color>
+    <color name="linkColor">#007bff</color>
+    <color name="textHighlight">#dab2d6</color>
+    <color name="semiWhite">#f3f3f3</color>
+    <color name="green">#5eba7d</color>
+</resources>

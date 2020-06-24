@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Credit Card</string>
+
+    <string name="braintree_tokenization_key">sandbox_s9598d2c_w4238zng4zw4nqxg</string>
+
+    <string name="braintree_merchant_id">w4238zng4zw4nqxg</string>
+    <string name="braintree_public_key">jch8dk388jjw6qdz</string>
+    <string name="braintree_private_key">8cfb949a0a25e36f2a01d54ef83e1459</string>
+
+</resources>
